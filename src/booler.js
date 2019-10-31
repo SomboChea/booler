@@ -1,8 +1,8 @@
 /**
- * @author Samob Chea <sombochea@cubetiqs.com>
  *
- * Booler can convert any value to Boolean.
+ * Booler can convert any value to Boolean type.
  * 
+ * @author Samob Chea <sombochea@cubetiqs.com>
  * @param {*} val Value to parse.
  */
 const booler = (val) => {

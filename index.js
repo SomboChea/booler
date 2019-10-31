@@ -1,7 +1,6 @@
 /**
- * @author Samob Chea <sombochea@cubetiqs.com>
- * 
  * Import booler module.
+ * @author Samob Chea <sombochea@cubetiqs.com>
  */
 const booler = require('./src/booler')
 

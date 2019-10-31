@@ -1,5 +1,5 @@
 {
-  "name": "booler.js",
+  "name": "booler",
   "version": "0.0.1",
   "description": "Convert string to Boolean in JavaScript.",
   "main": "index.js",
@@ -11,9 +11,10 @@
     "url": "git+https://github.com/SomboChea/booler.git"
   },
   "keywords": [
-    "Boolean",
-    "JavaScript",
-    "Converter"
+    "booler",
+    "boolean",
+    "js",
+    "converter"
   ],
   "author": "Sambo Chea",
   "license": "MIT",

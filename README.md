@@ -5,7 +5,7 @@ Convert string/values to Boolean in JavaScript.
 ## Installing
 
 ```shell
-$ npm i booler.js --save
+$ npm i booler --save
 ```
 
 ## Example
