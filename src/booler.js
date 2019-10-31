@@ -7,7 +7,7 @@
  */
 const booler = (val) => {
     // transform to string lower case.
-    val = val + "".toLowerCase();
+    val = (val + "").toLowerCase();
     return val == 't' || val == 'true' || val == 1;
 }
 

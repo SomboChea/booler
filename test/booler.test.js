@@ -5,6 +5,10 @@ it('booler will be pass it to equal true', () => {
     assert.equal(true, booler(true));
 })
 
+it('booler will be pass it to equal True', () => {
+    assert.equal(true, booler('True'));
+})
+
 it(`booler will be pass it to equal 'true'`, () => {
     assert.equal(true, booler('true'));
 })
