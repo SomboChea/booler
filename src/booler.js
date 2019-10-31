@@ -6,6 +6,8 @@
  * @param {*} val Value to parse.
  */
 const booler = (val) => {
+    // transform to string lower case.
+    val = val + "".toLowerCase();
     return val == 't' || val == 'true' || val == 1;
 }
 

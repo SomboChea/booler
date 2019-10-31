@@ -5,13 +5,13 @@ Convert string/values to Boolean in JavaScript.
 ## Installing
 
 ```shell
-$ npm i booler --save
+$ npm i boolerjs --save
 ```
 
 ## Example
 
 ```js
-const booler = require('booler')
+const booler = require('boolerjs')
 
 console.log(booler('f')) // return false
 console.log(booler('t')) // return true
