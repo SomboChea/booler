@@ -1,0 +1,27 @@
+{
+  "name": "booler.js",
+  "version": "1.0.0",
+  "description": "Convert string to Boolean in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SomboChea/booler.git"
+  },
+  "keywords": [
+    "Boolean",
+    "JavaScript",
+    "Converter"
+  ],
+  "author": "Sambo Chea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SomboChea/booler/issues"
+  },
+  "homepage": "https://github.com/SomboChea/booler#readme",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
